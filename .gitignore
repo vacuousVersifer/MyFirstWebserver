@@ -1,3 +1,6 @@
+### Keys ###
+src/testkey.jks
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
